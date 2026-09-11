@@ -1,0 +1,13 @@
+{
+  "name": "escrowx-rbl-verifier",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Small Node.js verification API for ESCROW X P2P RBL deposits",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
